@@ -1,0 +1,12 @@
+spring.application.name: tenin
+
+server.port: 8080
+
+load.animal: true
+#Ariies
+spring:
+  data:
+    mongodb:
+      database: suleiman
+  servlet.multipart.max-file-size: 1MB
+  servlet.multipart.max-request-size: 1MB
